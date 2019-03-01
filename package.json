@@ -2,14 +2,17 @@
   "name": "graphql-example",
   "version": "1.0.0",
   "description": "A simple GraphQL test project",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "parcel ./public/index.html"
+    "start": "node main.js",
+    "parcel": "parcel ./public/index.html"
   },
   "keywords": [],
   "author": "TwiggyBuffalo (http://github.com/TwiggyBuffalo)",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
   },
