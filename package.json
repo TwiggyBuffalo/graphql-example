@@ -1,0 +1,20 @@
+{
+  "name": "graphql-example",
+  "version": "1.0.0",
+  "description": "A simple GraphQL test project",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./public/index.html"
+  },
+  "keywords": [],
+  "author": "TwiggyBuffalo (http://github.com/TwiggyBuffalo)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "devDependencies": {
+    "graphql": "^14.1.1",
+    "parcel-bundler": "^1.11.0"
+  }
+}
