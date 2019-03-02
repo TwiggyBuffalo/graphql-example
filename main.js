@@ -1,6 +1,6 @@
 const { exec, fork } = require('child_process');
 
-fork("./src/graphql1.js")
+fork("./src/server.js")
 
 exec("npm run parcel")
 
