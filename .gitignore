@@ -62,3 +62,9 @@ typings/
 
 # parcel cache
 .cache
+
+# parcel dist dir
+dist/
+
+# .DS_Store
+.DS_Store
