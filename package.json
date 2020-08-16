@@ -11,7 +11,7 @@
   "author": "TwiggyBuffalo (http://github.com/TwiggyBuffalo)",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-express": "^2.4.8",
+    "apollo-server-express": "^2.14.2",
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
