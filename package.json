@@ -17,7 +17,7 @@
     "express": "^4.16.4",
     "express-graphql": "^0.7.1",
     "graphql": "^15.0.0",
-    "graphql-tools": "^4.0.4",
+    "graphql-tools": "^8.0.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
