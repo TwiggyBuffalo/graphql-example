@@ -16,7 +16,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "express-graphql": "^0.7.1",
-    "graphql": "^14.1.1",
+    "graphql": "^15.0.0",
     "graphql-tools": "^8.0.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
